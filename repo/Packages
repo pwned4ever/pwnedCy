@@ -1,0 +1,15 @@
+Package: com.pwned4ever.barrel
+Version: 3
+Architecture: darwin-arm64
+Maintainer: pwned4ever <pwned4ever@hotmail.com>
+Filename: debs/com.pwned4ever.barrel_3_darwin-arm64.deb
+Size: 635232
+MD5sum: a8ae36ce3ddefd013d2a0ff550ee9162
+SHA1: 364be9db9e5c71bf93c45c42ec8c243739af86a8
+SHA256: 4a19a3f11ebfb22a7bca494226df4dfe3f078c08e40769777550e5d292a64e7d
+Section: Pwned4ever - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=barrel
+Description: 3D and other effects on icon pages!
+Author: Aaron Ash (Charybdis) <repo@pwned4ever.github.io>
+Name: Barrel3
+
